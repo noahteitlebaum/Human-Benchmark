@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Fonts/InstFont.spritefont</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Fonts/MenuFont.spritefont</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Fonts/TitleFont.spritefont</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/AimBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/AimHoverBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/AimTrainerIcon.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/BullseyeIcon.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/NumberBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/NumberHoverBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/NumberIcon.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/NumberIconLg.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/OopsIcon.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/ProgressBarEmpty.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/ProgressBarFull.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/ReactionBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/ReactionClockIcon.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/ReactionHoverBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/ReactionIcon.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/ReactionIconLg.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/ReactionWaitIcon.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/SaveBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/SaveHoverBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/SequenceBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/SequenceHoverBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/SequenceIcon.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/SequenceIconLg.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/SequenceSqOff.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/SequenceSqOn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/StartBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/StartHoverBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/Target.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/TextBox.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/TryBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/TryHoverBtn.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/VolumeOff.png</File>
+    <File>E:/Work/ICS/ICS3/AandE/Assignments/03 PASS2/W22/StudentStarter/HumanBenchmark/HumanBenchmark/Content/Images/Sprites/VolumeOn.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
